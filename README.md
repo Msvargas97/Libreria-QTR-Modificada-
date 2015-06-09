@@ -23,7 +23,7 @@ respetando los derechos de autor de Pololu
 
      bool restoreCalibration(); Devuelve un 1 lógico si se restauraron los valores adecuadamente
      
--Limpia la EEPROM almacenados
+-Limpia la EEPROM almacenados por la funcion recordCalibration
 
     bool clearEEPROM(char led); //Devuelve un 1 lógico cuando termina de borrar los valores char LED, introducir el pin de una salida como indicativo visual para iniciar y finalizar la funcion, como un LED
     
@@ -42,8 +42,8 @@ respetando los derechos de autor de Pololu
 Se encuentra en la ruta examples/QTR_MOD...
 
 
-#Contactame
+#Contact me
 
-msvargas97@gmail.com
+email :msvargas97@gmail.com
 
-@MichaelVargas97
+Twitter:@MichaelVargas97
