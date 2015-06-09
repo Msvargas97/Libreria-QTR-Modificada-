@@ -2,8 +2,7 @@
 Version 1.1 STABLE
 Ultima revisión ->09/06/2015
 
-Libreria Modificada By Michael Vargas
-respetando los derechos de autor de Pololu
+Copyright (c) 2014-2015 Michael Vargas.
 
 #Caracteristicas
 
