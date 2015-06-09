@@ -37,9 +37,13 @@ respetando los derechos de autor de Pololu
 
 -Si se desea usar la EEPROM y la libreria a la vez, la libreria ya tiene asignada la directiva por lo tanto solo es llamar las funciones que se encuentran en EEPROMEx
 
+-Reemplazar todos los archivos o la libreria como tal original de Pololu por esta
+
+-No importar la libreria a Arduino directamente una vez descargado el ZIP ya que quedaria mal importada, su instalación es manual
+
 #Código de Ejemplo
 
-Se encuentra en la ruta examples/QTR_MOD...
+Se encuentra en la ruta examples/QTRRC_MOD
 
 
 #Contact me
