@@ -38,7 +38,9 @@ Copyright (c) 2014-2015 Michael Vargas.
 
 -Reemplazar todos los archivos o la libreria como tal original de Pololu por esta
 
--No importar la libreria a Arduino directamente una vez descargado el ZIP ya que quedaria mal importada, su instalación es manual
+-Link de libreria Original de Pololu ->https://github.com/pololu/qtr-sensors-arduino
+
+
 
 #Código de Ejemplo
 
