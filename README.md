@@ -32,6 +32,10 @@ Copyright (c) 2014-2015 Michael Vargas.
     
         time= Tiempo en milisegundos para calibrar, readMode=sensores encendidos o apagados, led = añadir el pin de alguna salida para indicar que la calibracion termino, de forma visual podria ser un LED
 
+#Código de Ejemplo
+
+Se encuentra en la ruta examples/QTRRC_MOD
+
 #EXTRAS
 
 -Si se desea usar la EEPROM y la libreria a la vez, la libreria ya tiene asignada la directiva por lo tanto solo es llamar las funciones que se encuentran en EEPROMEx
@@ -40,12 +44,11 @@ Copyright (c) 2014-2015 Michael Vargas.
 
 -Link de libreria Original de Pololu ->https://github.com/pololu/qtr-sensors-arduino
 
+Creditos: 
 
+-Arduino
 
-#Código de Ejemplo
-
-Se encuentra en la ruta examples/QTRRC_MOD
-
+-Pololu
 
 #Contact me
 
